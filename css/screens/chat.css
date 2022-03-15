@@ -148,6 +148,10 @@
   top: 15px;
 }
 
+.reply__column .fa-face-smile {
+  margin-top: 6px;
+}
+
 .reply__column button {
   background-color: var(--yellow);
   border: none;
