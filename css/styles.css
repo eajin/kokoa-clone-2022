@@ -12,6 +12,7 @@
 @import "components/user-component.css";
 @import "components/icon-row.css";
 @import "components/no-mobile.css";
+@import "components/main-screen.css";
 
 /* Screens */
 @import "screens/find.css";

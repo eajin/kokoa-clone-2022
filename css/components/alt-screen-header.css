@@ -1,4 +1,11 @@
 .alt-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  box-sizing: border-box;
+  background-color: white;
+  /* fixed */
   padding: 25px 25px 5px 25px;
   display: flex;
   align-items: center;
